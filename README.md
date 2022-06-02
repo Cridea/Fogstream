@@ -1,4 +1,3 @@
 Libraries:
-RESTinstance
-SeleniumLibrary
+RESTinstance, SeleniumLibrary
 Plugins: IntelliBot
